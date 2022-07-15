@@ -4,7 +4,10 @@
  *
  * https://en.wikipedia.org/wiki/Names_of_large_numbers - Standard dictionary 
  * to:vigintillion 
- * ext: Quadragintillion 10^123
+ *
+ * Note: This source code is not optimized or intended for use in production.
+ *
+ * @author: Jon L. Boynton
  */
  
 const SMALL_NUMBERS = [
