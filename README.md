@@ -16,6 +16,11 @@ If you have ever wanted to re-use javascript code in a python project, or just w
 **Part I:** *Javascript to Python and Beyond*, presented on July 14th, 2022<br>
 **Part II:** *Introduction to JSConvert*, presented on July 28th, 2022<br>
 
+## Event Hosts
+
+[![SWFL Coders](./swflcoders_icon.png "SWFL Coders")](https://www.meetup.com/swfl-coders/)
+[![Python SWFL](./pyswfl_icon.jpg "Python SWFL")](https://www.meetup.com/pythonswfl/)
+
 ## Speaker’s Biography
 
 Jon Boynton is an Internet Technology Professional with over 35 years of programming experience. He began working professionally as a software developer in the late 1990’s after learning to program in the Java language.  Over the years, Boynton has also worked with BASIC, FORTRAN, Perl, C#, Javascript, Python, PHP, SQL, JSP, and ASP among others. Currently, Mr. Boynton is working with his company, Datamessenger.com, to develop distributed database technologies for IoT devices.
