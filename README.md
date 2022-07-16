@@ -3,11 +3,11 @@ A two-part lecture series that discusses the practice, methods, and applications
 
 ## Part I. Javascript to Python and Beyond
 
-In this talk, professional software developer Jon Boynton shares tips and strategies for rapidly learning new programming languages through the art of transpiling. In the discussion, He will demonstrate how to break down Javascript and re-write it in Python. The talk will also include a general lecture on the topic of transpiling, various transpiling tools, and a brief introduction to JSConvert – an extendable open-source transpiler written in Python.
+In this talk, professional software developer Jon Boynton shares tips and strategies for rapidly learning new programming languages through the art of transpiling. In the discussion, He will demonstrate how to break down Javascript and re-write it in Python. The talk will also include a general lecture on the topic of transpiling, various transpiling tools, and a brief introduction to [JSConvert](https://github.com/JonBoynton/JSConvert/) – an extendable open-source transpiler written in Python.
 
 ## Part II. Introduction to JSConvert
 
-Professional software developer Jon Boynton discusses how, after 25 years of working in Java, he decided to do a deep dive into Python 3. The result was JSConvert, an open-source transpiler written in 100% pure Python. The transpiler converts Javascript source code into Python source code. Users and third-party developers can extend JSConvert to work with other languages as well.
+Professional software developer Jon Boynton discusses how, after 25 years of working in Java, he decided to do a deep dive into Python 3. The result was [JSConvert](https://github.com/JonBoynton/JSConvert/), an open-source transpiler written in 100% pure Python. The transpiler converts Javascript source code into Python source code. Users and third-party developers can extend JSConvert to work with other languages as well.
 
 If you have ever wanted to re-use javascript code in a python project, or just want to amp up your Python skills, JSConvert is great for doing both. In this tutorial, Jon Boynton will explain how the program works and how developers, both experienced and novice, can extend the programs capabilities. Coding examples will be given showing how to create rules, interpret language specifications, and output translated results. The tutorial will also include several live demonstrations, use of Eclipse IDE for Python, and a broader discussion on programming in Python vs. Javascript.
 
