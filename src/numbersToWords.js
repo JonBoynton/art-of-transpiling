@@ -5,7 +5,8 @@
  * https://en.wikipedia.org/wiki/Names_of_large_numbers - Standard dictionary 
  * to:vigintillion 
  *
- * Note: This source code is not optimized or intended for use in production.
+ * Note: This is sample source code. It does work but is not optimized or
+ *       otherwise intended for use in production.
  *
  * @author: Jon L. Boynton
  */
