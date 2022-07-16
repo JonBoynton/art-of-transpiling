@@ -1,6 +1,6 @@
 #
 # Numbers to Words:
-# Privides a code example that will convert a long string of numbers into text. 
+# Provides a code example that will convert a long string of numbers into text. 
 #
 # https:#en.wikipedia.org/wiki/Names_of_large_numbers - Standard dictionary 
 # to:vigintillion 
