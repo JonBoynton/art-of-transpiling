@@ -14,7 +14,7 @@ If you have ever wanted to re-use javascript code in a python project, or just w
 ## Event Location
 **The Collaboratory** in downtown Ft. Myers, Florida<br>
 **Part I:** *Javascript to Python and Beyond*, presented on July 14th, 2022<br>
-**Part II:** *Introduction to JSConvert*, presented on July 28th, 2022<br>
+**Part II:** *[Introduction to JSConvert](https://www.youtube.com/watch?v=ed3pa3lg6j4)*, presented on July 28th, 2022<br>
 
 ## Event Hosts
 
